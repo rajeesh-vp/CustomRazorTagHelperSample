@@ -9,7 +9,7 @@ Files Added/Changed
 Run https://localhost:port/mypage to see the implementation
 
 What it does:
-	```html
+	```
 	<email mail-to="rajeeshvp"></email> 
 		will be converted into
 	<a href="mailto:rajeeshvp@gmail.com">rajeeshvp@gmail.com</a>
