@@ -14,3 +14,4 @@ What it does:
 		will be converted into
 	<a href="mailto:rajeeshvp@gmail.com">rajeeshvp@gmail.com</a>
 	```
+	Check commit 4755ad8 for changes
